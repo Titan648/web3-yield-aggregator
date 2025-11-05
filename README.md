@@ -1,1 +1,1 @@
-# web3-yield-aggregator
+# web3_yield_aggregator
