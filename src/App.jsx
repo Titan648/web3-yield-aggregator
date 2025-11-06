@@ -165,4 +165,10 @@ const REFRESH_INTERVALS = [
   { label: '5m', value: 300000 },
   { label: '10m', value: 600000 },
 ];
+      </footer>
+    </div>
+  );
+}
+
+export default App;
 
