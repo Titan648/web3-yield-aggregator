@@ -163,4 +163,6 @@ const REFRESH_INTERVALS = [
   { label: '30s', value: 30000 },
   { label: '1m', value: 60000 },
   { label: '5m', value: 300000 },
-  { label: '
+  { label: '10m', value: 600000 },
+];
+
